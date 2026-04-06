@@ -6,10 +6,10 @@ Excel | Chocolate Sale Data| From Raw Data to Business Insights
 * [Dataset Overview](#dataset-overview)
 * [Data Cleaning](#data-cleaning)
 * [Excel Dashboard](#excel-dashboard)
-* [Data Source](#data-source)
 * [Dashboard](#dashboard)
 * [Key Insights](#key-insights)
 * [Recommendation](#recommendation)
+* [Data Source](#data-source)
 
 
 ### PROJECT OVERVIEW
@@ -62,10 +62,6 @@ The Excel dashboard includes the following charts:
 - 🗺️ Regional sales performance for top 5 products
 
 
-### DATA SOURCE
-This data was gotten from Kaggle
-[Download here](https://www.kaggle.com/datasets?search=chocolate+sales)
-
 ### DASHBOARD
 
 (![Chocolate Sales Dashboard 2](https://github.com/user-attachments/assets/cdbb1034-a3bc-4fee-bc9f-b67590330ff2)
@@ -85,4 +81,7 @@ This data was gotten from Kaggle
 * The company can optimize revenue growth and sales strategy
 * Leverage peak months (june and july) with promotions
 
-   
+### DATA SOURCE
+This data was gotten from Kaggle
+[Download here](https://www.kaggle.com/datasets?search=chocolate+sales)
+
