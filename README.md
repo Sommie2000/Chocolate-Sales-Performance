@@ -1,6 +1,17 @@
 ## CHOCOLATE-SALES-ANALYSIS | Revenue, Trends and Insights
 Excel | Chocolate Sale Data| From Raw Data to Business Insights
 
+### TABLE OF CONTENT
+* [Project Overview](Project-Overview)
+* [Dataset Overview](Dataset-Overview)
+* [Data Cleaning](Data-Cleaning)
+* [Excel Dashboard](Excel-Dashboard)
+* [Data Source](Data-Source)
+* [Dashboard](Dashboard)
+* [Key Insights](Key-Insights)
+* [Recommendation](Recommendation)
+
+
 ### PROJECT OVERVIEW
 This Project analyzes chocolate sales data to uncover trends in revenue, product performance and dominance, market strength, seasonal trend, regional sales and top salesperson performance. I used power query editor for data cleaning and excel for data transformation and visualization, the project turns raw transaction records into strategic business insights and decision making.
 
@@ -49,6 +60,8 @@ The Excel dashboard includes the following charts:
 - 🧑‍🤝‍🧑 Top 10 sales Person
 - 📊 Sales by total boxes
 - 🗺️ Regional sales performance for top 5 products
+
+
 ### DATA SOURCE
 This data was gotten from Kaggle
 [Download here](https://www.kaggle.com/datasets?search=chocolate+sales)
