@@ -27,6 +27,8 @@ Dataset Sample Preview
 |Jehu Rudeforth|	UK|	Peanut Butter Cubes|	24/02/2022|	Jan|	2022|	8-Jan-22|	$13.7K|	184|
 
 
+[Dataset file showing the pivot tables][Chocolate Sales 3.xlsx](https://github.com/user-attachments/files/26504748/Chocolate.Sales.3.xlsx)
+
 ### DATA CLEANING
 - Changed date and amount datatype to date and currency format
 - Removed, duplicate, missing or invalid values
@@ -52,7 +54,6 @@ This data was gotten from Kaggle
 [Download here](https://www.kaggle.com/datasets?search=chocolate+sales)
 
 ### DASHBOARD
-[Dataset file showing the pivot tables][Chocolate Sales 3.xlsx](https://github.com/user-attachments/files/26504748/Chocolate.Sales.3.xlsx)
 
 (![Chocolate Sales Dashboard 2](https://github.com/user-attachments/assets/cdbb1034-a3bc-4fee-bc9f-b67590330ff2)
 
