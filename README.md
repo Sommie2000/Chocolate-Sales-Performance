@@ -1,5 +1,8 @@
 # Chocolate-Sales-Performance
 #OVERVIEW
+This Data is about chocolate sales performance that highlight product dominance, market strength, seasonal trend and top sales performance
+
+
 #DATA SOURCE
 This data was gotten from Kaggle
 [Download here](https://www.kaggle.com/datasets?search=chocolate+sales)
