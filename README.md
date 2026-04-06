@@ -59,4 +59,10 @@ This data was gotten from Kaggle
 4. The top sales person is Ches Bonnell, Ches Bonnell generated the highest sales revenue, demostrating strong sales effectiveness
    
 ### RECOMMENDATION   
+* Expand distribution of smooth silky salty chocolate and review pricing strategies for low margin products such as 70% dark bites and caramel stuffed bars chocolates
+* Analyze underperforming products and months for improvement opportunities
+* Stregthening top markets in Australia and also support underperforming countries
+* The company can optimize revenue growth and sales strategy
+* Leverage peak months (june and july) with promotions
+
    
