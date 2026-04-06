@@ -1,7 +1,11 @@
-# CHOCOLATE-SALES-PERFORMANCE
-I created an interactive chocolate sales performance dashboard in excel with detailed pivot tables, the process include; data cleaning using power query editor, descriptive statistics and visualization.
+# CHOCOLATE-SALES-ANALYSIS | Revenue, Trends and Insights
+Excel |Chocolate Retail Sale Data| From Raw Data to Business Insights 
 
-## OVERVIEW
+## TABLE OFCONTENT
+
+
+
+## PROJECT OVERVIEW
 This Data is about chocolate sales performance that highlight product dominance, market strength, seasonal trend and top sales performance
 
 
