@@ -8,6 +8,7 @@ Excel | Chocolate Sale Data| From Raw Data to Business Insights
 * [Excel Dashboard](#excel-dashboard)
 * [Dashboard](#dashboard)
 * [Key Insights](#key-insights)
+* [Interactive Analysis](#interactive-analysis)
 * [Recommendation](#recommendation)
 * [Data Source](#data-source)
 
