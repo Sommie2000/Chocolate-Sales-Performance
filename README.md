@@ -34,6 +34,12 @@ Dataset Sample Preview
 
 
 ### EXCEL DASHBOARD 
+KPI CARDS
+* 💹 Total Revenue: $19792M
+* 🍫 Total Boxes Shipped: $540K
+* 📈 Average Revenue per Sale: $6K
+* 🍫 Average Boxes Shipped: 165
+
 The Excel dashboard includes the following charts:
 - 💹 Sales performance in each country (sales by country)
 - 📈 Monthly sales trend
