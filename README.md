@@ -2,14 +2,14 @@
 Excel | Chocolate Sale Data| From Raw Data to Business Insights
 
 ### TABLE OF CONTENT
-* [Project Overview](Project-Overview)
-* [Dataset Overview](Dataset-Overview)
-* [Data Cleaning](Data-Cleaning)
-* [Excel Dashboard](Excel-Dashboard)
-* [Data Source](Data-Source)
-* [Dashboard](Dashboard)
-* [Key Insights](Key-Insights)
-* [Recommendation](Recommendation)
+* [Project Overview](#project-overview)
+* [Dataset Overview](#dataset-overview)
+* [Data Cleaning](#data-cleaning)
+* [Excel Dashboard](#excel-dashboard)
+* [Data Source](#data-source)
+* [Dashboard](#dashboard)
+* [Key Insights](#key-insights)
+* [Recommendation](#recommendation)
 
 
 ### PROJECT OVERVIEW
