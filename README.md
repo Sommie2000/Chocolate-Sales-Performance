@@ -52,3 +52,8 @@ This data was gotten from Kaggle
 
 
 ### KEY INSIGHTS 
+1. Australia emerged as the highest revenue generating country, indicating strong market demand and effective regional sales performance  while New Zealand generated the lowest revenue
+2. Revenue peaked in June and July, revealing a possible seasonal buying pattern, this insight could be;
+   > Seasonal inventoy planning, Targeted marketing campaigns and Promotional timing strategies
+   
+   
