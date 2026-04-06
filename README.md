@@ -52,8 +52,11 @@ This data was gotten from Kaggle
 
 
 ### KEY INSIGHTS 
-1. Australia emerged as the highest revenue generating country, indicating strong market demand and effective regional sales performance  while New Zealand generated the lowest revenue
+1. Australia emerged as the highest revenue generating country with 18%, indicating strong market demand and effective regional sales performance while New Zealand generated the lowest revenuewith 15%
 2. Revenue peaked in June and July, revealing a possible seasonal buying pattern, this insight could be;
    > Seasonal inventoy planning, Targeted marketing campaigns and Promotional timing strategies
+3. Smooth silky salty chocolate product contributed the highest revenue, suggesting strong product-market fit, customer preference and demand while the product with the lowest revenue is the 70% dark bites
+4. The top sales person is Ches Bonnell, Ches Bonnell generated the highest sales revenue, demostrating strong sales effectiveness
    
+### RECOMMENDATION   
    
