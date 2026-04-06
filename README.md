@@ -74,6 +74,16 @@ The Excel dashboard includes the following charts:
 3. Smooth silky salty chocolate product contributed the highest revenue, suggesting strong product-market fit, customer preference and demand while the product with the lowest revenue is the 70% dark bites
 4. The top sales person is Ches Bonnell, Ches Bonnell generated the highest sales revenue, demostrating strong sales effectiveness
 5. The top selling product with the highest boxes shipped is the 50% dark bites chocolate even if it didnt drive the highest sales revenue
+
+### INTERACTIVE ANALYSIS 
+To enhance usability, I integrated a Year Slicer, allowing dynamic filtering of the performance metrics across different years. 
+This helps uncover;
+- Year-over-year performance change
+- Shifts in product demand
+- Trend Analysis
+- Performance tracking by period
+- Market growth patterns
+
 ### RECOMMENDATION   
 * Expand distribution of smooth silky salty chocolate and review pricing strategies for low margin products such as 70% dark bites and caramel stuffed bars chocolates
 * Analyze underperforming products and months for improvement opportunities
