@@ -46,7 +46,7 @@ Dataset Sample Preview
 - Changed date and amount datatype to date and currency format
 - Removed, duplicate, missing or invalid values
 - Created new columns for corrected date and year
-- 
+  
 ### TOOLS
 Excel | Power Query Editor
 
