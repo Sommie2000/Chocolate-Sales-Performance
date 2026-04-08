@@ -67,8 +67,9 @@ The Excel dashboard includes the following charts:
 
 
 ### DASHBOARD
+![Chocolate Sales Dashboard 2](https://github.com/user-attachments/assets/9aa5022b-2b14-410b-8ad6-00dd4b98f3f1)
 
-(![Chocolate Sales Dashboard 2](https://github.com/user-attachments/assets/cdbb1034-a3bc-4fee-bc9f-b67590330ff2)
+
 
 
 ### KEY INSIGHTS 
